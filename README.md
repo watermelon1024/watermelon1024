@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">西瓜</h1>
+<p align="center">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=watermelon1024&show_icons=true&theme=radical" /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon1024&layout=compact&theme=radical&locale=cn" /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon1024&langs_count=8&theme=radical&locale=cn" /><br />
+</p>
+<hr>
 
-<!--
-**watermelon1024/watermelon1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Codes:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
