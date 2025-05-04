@@ -1,9 +1,9 @@
 <h1 align="center">watermelon</h1>
 <p align="center">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=watermelon1024&show_icons=true&theme=radical" /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=watermelon1024&show_icons=true&count_private=true&theme=github_dark" /><br />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon1024&layout=compact&theme=radical&locale=cn" /><br /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon1024&langs_count=8&theme=radical&locale=cn" /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon1024&layout=compact&langs_count=8&theme=github_dark&locale=cn" /><br />
 </p>
 <hr>
 
