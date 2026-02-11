@@ -18,3 +18,6 @@
 <a href="https://cplusplus.com" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/> 
 </a>
+<a href="https://www.typescriptlang.org" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> 
+</a>
